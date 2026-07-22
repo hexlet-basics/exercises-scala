@@ -1,0 +1,10 @@
+---
+
+language:
+  docker_image: "ghcr.io/hexlet-basics/exercises-scala"
+  extension: scala
+  exercise_filename: index.scala
+  exercise_test_filename: test.scala
+  learn_as: first_language
+  progress: in_development
+  name: Scala
