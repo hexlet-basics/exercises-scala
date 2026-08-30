@@ -1,6 +1,6 @@
 # exercises-scala
 
-[![Github Actions Status](../../workflows/Docker/badge.svg)](../../actions)
+[![Github Actions Status](https://github.com/hexlet-basics/exercises-scala/actions/workflows/Docker.yml/badge.svg)](https://github.com/hexlet-basics/exercises-scala/actions)
 
 ## Description
 
@@ -8,7 +8,7 @@ Free introductory Scala course. It starts with the classic `Hello, World!` exerc
 
 ## How to contribute
 
-* Discuss the project on Telegram: https://t.me/hexletcommunity/12
+- Discuss the project on Telegram: <https://t.me/hexletcommunity/12>
 
 ## Develop
 
